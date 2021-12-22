@@ -1,0 +1,2 @@
+model_checkpoint_path: "naml_ckpt"
+all_model_checkpoint_paths: "naml_ckpt"
